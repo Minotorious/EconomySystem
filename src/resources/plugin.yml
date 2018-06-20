@@ -1,0 +1,8 @@
+name: EconomySystem
+main: EconomySystem.EconomySystemMain
+version: 1.0.0
+author: Minotorious
+team:
+description: "Economy System plugin"
+license:
+website:

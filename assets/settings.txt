@@ -1,0 +1,6 @@
+currencyName:MinoEuro
+currencySymbol:ME
+currencyBotName:MinoBank
+currencyBotChatColour:[#FFFFFF]
+initialAmount:10000
+TransactionDeletionPeriod:30
